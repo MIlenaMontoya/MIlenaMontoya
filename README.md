@@ -2,9 +2,16 @@
 Hello world, as a software developer I am constantly learning, I am excited about this world ..
 I love music, dancing, crafts
 
+**Languages and Tools:**  
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 ## Social media :
 
-<br/>
 <a href="https://twitter.com/mimolmon">
   <img align="left" alt="Milena| Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,4 +24,18 @@ I love music, dancing, crafts
 
 <br/>
 
-![MIlenaMontoya github stats](https://github-readme-stats.vercel.app/api?username=MIlenaMontoya&show_icons=true)
+***
+## stacks
+
+<a href="https://github.com/MIlenaMontoya">
+  <img src="https://github-readme-stats.vercel.app/api?username=MIlenaMontoya&show_icons=true&hide_border=true" />
+</a>
+
+-----
+
+<a href="https://github.com/MIlenaMontoya">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIlenaMontoya&layout=compact" />
+</a>
+
+
+
