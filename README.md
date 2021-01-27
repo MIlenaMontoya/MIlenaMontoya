@@ -2,6 +2,11 @@
 Hello world, as a software developer I am constantly learning, I am excited about this world ..
 I love music, dancing, crafts
 
+<div>
+    <img src="https://i.pinimg.com/originals/37/1d/b8/371db84b01a8b6ecc9add7131abba6dd.gif" width="auto" class="responsive"/>
+ </div>
+</br>
+
 **Languages and Tools:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
